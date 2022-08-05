@@ -386,4 +386,3 @@ int main()
   i2cClose();
   return 0;
 }
-
